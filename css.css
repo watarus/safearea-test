@@ -29,15 +29,15 @@
     max-width:500px;
     height:auto;
     padding: 0;
-	margin: 0 auto;
+    margin: 0 auto;
 }
 
 .video video {
-	width: 100%;
-	height: auto;
-	display: block;
-	padding: 0px;
-	margin: 0px;
+    width: 100%;
+    height: auto;
+    display: block;
+    padding: 0px;
+    margin: 0px;
 }
 
 body {
